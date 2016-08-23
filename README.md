@@ -9,7 +9,7 @@ Once you generate a list of players waiting to be deleted, this tiny Python prog
 ## Instructions
 1. Download `LandCleanup.py`.
 2. Obtain `Land.yml` (land list of EconomyLand) from `./plugins/Economyland` of PocketMine installation path, then put the file into the directory which stores `LandCleanup.py`.
-3. Generate a list of players who have not logged in your server for more than `x` days. Execute *find -mtime +`x` |xargs ls > cleanup.txt*.
+3. Generate a list of players who have not logged in your server for more than `x` days. Execute **find -mtime +`x` |xargs ls > cleanup.txt** in `./players` of PocketMine installation path.
 4. Obtain `cleanup.txt`, then put the file into the directory which stores `LandCleanup.py`.
 5. Run `LandCleanup.py`. The list of players who lave land will generate in `hasland.txt` in the same directory.
 
