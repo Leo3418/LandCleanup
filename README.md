@@ -1,5 +1,5 @@
 # A Python program for determining land owners in EconomyLand PocketMine plugin
-If you are a [PocketMine] (https://github.com/PocketMine/PocketMine-MP) server administrator, and your server has [EconomyLand] (https://github.com/onebone/EconomyS/tree/master/EconomyLand) installed,  sometimes you would like to clean up lands of players who quitted your server.   
+If you are a [PocketMine](https://github.com/PocketMine/PocketMine-MP) server administrator, and your server has [EconomyLand](https://github.com/onebone/EconomyS/tree/master/EconomyLand) installed,  sometimes you would like to clean up lands of players who quitted your server.   
 Once you generate a list of players waiting to be deleted, this tiny Python program can help you find out players who have land on your server.
 
 ## Requirements
